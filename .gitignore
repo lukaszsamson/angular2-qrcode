@@ -1,1 +1,7 @@
 node_modules/
+/compiled
+*.metadata.json
+
+# *.map.js
+# *.js
+# *.d.ts
